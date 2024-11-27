@@ -1,10 +1,1 @@
 A
-B
-C
-D
-<<<<<<< HEAD
-G
-=======
-E
-F
->>>>>>> cool-new-feature
